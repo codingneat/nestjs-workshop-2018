@@ -4,7 +4,8 @@
   "description": "This is a Workshop about NestJS",
   "main": "index.js",
   "scripts": {
-    "lint": "tslint --project tsconfig.json src/**/*.ts"
+    "lint": "tslint --project tsconfig.json src/**/*.ts",
+    "start": "nodemon"
   },
   "repository": {
     "type": "git",
